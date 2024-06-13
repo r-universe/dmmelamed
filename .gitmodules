@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "catregs"]
 	path = catregs
-	url = https://github.com/cran/catregs
+	url = https://github.com/dmmelamed/catregs
